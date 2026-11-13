@@ -1,0 +1,3 @@
+Pon aquí tus canciones (.mp3, .m4a, .ogg, .wav) y luego ejecuta, desde la carpeta del proyecto:
+    python3 generar-lista.py
+Eso actualiza musica/lista.js con los nombres. Sube la carpeta musica/ completa a GitHub.
